@@ -4,7 +4,7 @@ At HashVeno, we are dedicated to building innovative IT products that empower bu
 
 ## 🚀 Our Mission
 
-Our mission is to [insert mission statement or core values]. We strive to create products that are not only functional but also user-friendly and scalable.
+Our mission is to innovate and deliver high-quality products that enhance the lives of our customers, while fostering a culture of sustainability and community engagement. We strive to create products that are not only functional but also user-friendly and scalable.
 
 ## 🛠️ Technologies We Use
 
@@ -20,7 +20,7 @@ We utilize a variety of technologies to develop our products, including:
 
 Here are some of our key products:
 
-1. **[InnovaraShopix](https://github.com/InnovaraShopix/innovarashopix-client)**  
+1. **[InnovaraShopix](https://innovarashopix.onrender.com/)**  
    A Shop Management System streamlines retail operations by integrating inventory, sales, and customer management for improved efficiency and decision-making.
 
 ## 🤝 Get Involved
@@ -28,7 +28,7 @@ Here are some of our key products:
 We welcome contributions from developers, designers, and tech enthusiasts! Here’s how you can get involved:
 
 - **Contribute to our projects:** Check out our [Contributing Guidelines](CONTRIBUTING.md) to get started.
-- **Join our community:** Connect with us on [Slack/Discord/Forum link].
+- **Join our community:** Connect with us on [Soon...].
 - **Follow us on social media:**  
   - [Instagram](https://www.instagram.com/hashveno/)
   - [Facebook](https://www.facebook.com/people/Hash-Veno/61572540565691/)
