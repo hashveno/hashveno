@@ -35,7 +35,7 @@ We welcome contributions from developers, designers, and tech enthusiasts! Hereâ
 
 ## ðŸ“« Contact Us
 
-For inquiries, please reach out to us at [contact@organization.com] or visit our [website](https://hashveno.onrender.com/).
+For inquiries, please reach out to us at [hashvenoofficial@gmail.com] or visit our [website](https://hashveno.onrender.com/).
 
 ---
 
